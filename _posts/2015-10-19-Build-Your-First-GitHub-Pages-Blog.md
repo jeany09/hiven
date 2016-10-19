@@ -47,7 +47,7 @@ Jekyll 是一个静态站点生成器，基于 ruby 语言编写。结合 Markdo
 
 ![BlogThemes](/img/Themes/BlogThemesX.jpg)
 
-[Jekyll 博客主题精选 - Microdust](http://azeril.me/blog/Selected-Collection-of-Jekyll-Themes.html)
+[Jekyll 博客主题精选 - Microdust](http://jeany09.me/blog/Selected-Collection-of-Jekyll-Themes.html)
 
 可以从中找自己合意的，然后去对应的 GitHub 仓库 Fork/Clone 就行。
 
@@ -208,7 +208,7 @@ Markdown 语法是对纯文本格式的强化，能使文本显示得更清晰�
 
 Markdown 格式的简洁特性，使之能快速转换为各种互联网上的常用格式，比如 HTML、Word、PDF 等，所以目前越来越常用。
 
-关于 Markdown 语法的细则，请参看 [Markdown 简明语法参考](http://azeril.me/blog/Markdown-Syntax.html)。
+关于 Markdown 语法的细则，请参看 [Markdown 简明语法参考](http://jeany09.me/blog/Markdown-Syntax.html)。
  
 嗷，内容太多？但实际用的过程中熟悉起来很快的。花一个小时掌握也差不多啦。
 
@@ -318,7 +318,7 @@ Sample.md 文档后填写相应的内容，开始写博文。Dropbox 文档可�
 
 什么，你还想要为 blog 挑一个更有 feeling 的域名？
 
-GitHub Pages 博客默认关联的是以 yourname.github.io 为格式的网址。如果已拥有自己的个人域名，可以直接在博客的 Repo 主目录里新增一个 CNAME 文件，内容为个人域名。比如，本博客添加的域名记录条目就是「azeril.me」。
+GitHub Pages 博客默认关联的是以 yourname.github.io 为格式的网址。如果已拥有自己的个人域名，可以直接在博客的 Repo 主目录里新增一个 CNAME 文件，内容为个人域名。比如，本博客添加的域名记录条目就是「jeany09.me」。
 
 什么？还没有，又想要？请继续往下读。
 

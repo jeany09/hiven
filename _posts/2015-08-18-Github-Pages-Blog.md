@@ -219,7 +219,7 @@ Markdown 语法是对纯文本格式的强化，能使文本显示得更清晰�
 
 Markdown 格式的简洁特性，使之能快速转换为各种互联网上的常用格式，比如 HTML、Word、PDF 等，所以目前越来越常用。
 
-关于 Markdown 语法的细则，请参看 [Markdown 简明语法参考](http://azeril.me//blog/2015/08/19/Markdown-Syntax/)。
+关于 Markdown 语法的细则，请参看 [Markdown 简明语法参考](http://jeany09.me//blog/2015/08/19/Markdown-Syntax/)。
 
 本篇说明就到此为止啦。
 

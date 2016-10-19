@@ -250,7 +250,7 @@ My Favorite Fruit List:
 
 博客默认的 Markdown 工具有点问题，效果如下图：
 
-![嵌套引用](http://i1381.photobucket.com/albums/ah234/Azeril_Lapland/Screen%20Shot%202015-08-30%20at%209.26.17%20PM_zpsg0ojze8c.png)
+![嵌套引用](http://i1381.photobucket.com/albums/ah234/jeany09_Lapland/Screen%20Shot%202015-08-30%20at%209.26.17%20PM_zpsg0ojze8c.png)
 
 语法如下，每行多添加一个「>」符号，再输入文字内容即可（每行行尾记得添两个空格符）：
 
@@ -338,11 +338,11 @@ My Favorite Fruit List:
 
 以下为一个网址的栗子：
 
-    [Welcome to my blog](http://azeril.me)
+    [Welcome to my blog](http://jeany09.me)
 
 显示效果如下：
 
-[Welcome to my blog](http://azeril.me)
+[Welcome to my blog](http://jeany09.me)
 
 ### 索引链接
 
@@ -526,7 +526,7 @@ Tips: 关于 jpg/png 都是常用文件格式，jpg 格式压缩效率高，相�
 {{ site.url }}/images/xxx.jpg
 ```
 
-引用的代码自动变形了。博文中两个花括号及「site.url」构成的代码块会自动补全为我的个人域名，所以这篇博文代码区中的演示也受到了影响(上一段的引用就受到影响了。后边的文中引用的例子也一样)。如果复制了刚才的代码块，需要将「 azeril.me//」修改成下图中的样子（两个花括号，中间加 site.url ）。即：
+引用的代码自动变形了。博文中两个花括号及「site.url」构成的代码块会自动补全为我的个人域名，所以这篇博文代码区中的演示也受到了影响(上一段的引用就受到影响了。后边的文中引用的例子也一样)。如果复制了刚才的代码块，需要将「 jeany09.me//」修改成下图中的样子（两个花括号，中间加 site.url ）。即：
 
 ![code](http://dreamofbook.qiniudn.com/onelinecode.png)
 

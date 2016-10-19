@@ -2,7 +2,7 @@
 
 做一份自己喜欢的可乐鸡翅。
 
-![](http://openmindclub.qiniudn.com/Azeril/MarkdownActionPicAddTemplateColaChickenWings.png)
+![](http://openmindclub.qiniudn.com/jeany09/MarkdownActionPicAddTemplateColaChickenWings.png)
 
 ## 用料  
 

@@ -49,7 +49,7 @@ Description：有题图的博客主题。布局简约，页面显示清晰，加
 
 * [Demo-Clean Blog](http://ironsummitmedia.github.io/startbootstrap-clean-blog/)
 * [Fork-Startbootstrap-Clean-Blog](https://github.com/IronSummitMedia/startbootstrap-clean-blog)  Clean Blog 原版
-* [Fork-Startbootstrap-Clean-Blog-Az.-Version](https://github.com/Azeril/azeril.github.io) 我的改进版，新增定制的横版大图，改进 CSS 配置及评论及目录模块。
+* [Fork-Startbootstrap-Clean-Blog-Az.-Version](https://github.com/jeany09/jeany09.github.io) 我的改进版，新增定制的横版大图，改进 CSS 配置及评论及目录模块。
 
 
 

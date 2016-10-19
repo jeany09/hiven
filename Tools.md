@@ -24,9 +24,9 @@ header-img: "img/autumn.jpg"
 
 [Color-hex Color-Codes](http://www.color-hex.com/)  
 
-[Screen rule](http://azeril.me/Screenrule/)
+[Screen rule](http://jeany09.me/Screenrule/)
 
-[Interview](http://azeril.me/Interview/)
+[Interview](http://jeany09.me/Interview/)
 
 [Strut.io](http://strut.io/)
 
